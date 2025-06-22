@@ -1,0 +1,70 @@
+2025-04-09 00:01:57 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\Harsha Timase\eclipse-workspace\EcomMaven\test-output\testng-failed.xml"
+2025-04-09 00:01:57 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\Harsha Timase\eclipse-workspace\EcomMaven\test-output\testng-failed.xml
+
+2025-04-09 00:02:01 INFO  TC001_AccountRegistrationTest:14 -
+			***** HB Starting TC001_AccountRegistrationTest *****
+2025-04-09 00:02:01 INFO  TC001_AccountRegistrationTest:21 -
+			***** Clicked on My account link *****
+2025-04-09 00:02:02 INFO  TC001_AccountRegistrationTest:24 -
+			***** Clicked on Register link *****
+2025-04-09 00:02:02 INFO  TC001_AccountRegistrationTest:27 -
+			***** Entered registration info *****
+2025-04-09 00:02:02 INFO  TC001_AccountRegistrationTest:40 -
+			***** Privacy policy selected *****
+2025-04-09 00:02:03 INFO  TC001_AccountRegistrationTest:42 -
+			***** Clicked on Continue button *****
+2025-04-09 00:02:03 INFO  TC001_AccountRegistrationTest:62 -
+			***** Completed TC001_AccountRegistrationTest *****
+2025-04-09 00:02:06 INFO  TC002_LoginTest:19 -
+			********Starting TC002_LoginTest************
+2025-04-09 00:02:07 INFO  TC002_LoginTest:48 -
+			********Finished TC002_LoginTest************
+2025-04-09 00:06:28 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\Harsha Timase\eclipse-workspace\EcomMaven\master.xml"
+2025-04-09 00:06:28 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\Harsha Timase\eclipse-workspace\EcomMaven\master.xml
+
+2025-04-09 00:06:31 INFO  TC001_AccountRegistrationTest:14 -
+			***** HB Starting TC001_AccountRegistrationTest *****
+2025-04-09 00:06:31 INFO  TC001_AccountRegistrationTest:21 -
+			***** Clicked on My account link *****
+2025-04-09 00:06:32 INFO  TC001_AccountRegistrationTest:24 -
+			***** Clicked on Register link *****
+2025-04-09 00:06:32 INFO  TC001_AccountRegistrationTest:27 -
+			***** Entered registration info *****
+2025-04-09 00:06:32 INFO  TC001_AccountRegistrationTest:40 -
+			***** Privacy policy selected *****
+2025-04-09 00:06:33 INFO  TC001_AccountRegistrationTest:42 -
+			***** Clicked on Continue button *****
+2025-04-09 00:06:33 INFO  TC001_AccountRegistrationTest:62 -
+			***** Completed TC001_AccountRegistrationTest *****
+2025-04-09 00:06:35 INFO  TC002_LoginTest:19 -
+			********Starting TC002_LoginTest************
+2025-04-09 00:07:49 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\Harsha Timase\eclipse-workspace\EcomMaven\master.xml"
+2025-04-09 00:07:49 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\Harsha Timase\eclipse-workspace\EcomMaven\master.xml
+
+2025-04-09 00:07:53 INFO  TC001_AccountRegistrationTest:14 -
+			***** HB Starting TC001_AccountRegistrationTest *****
+2025-04-09 00:07:53 INFO  TC001_AccountRegistrationTest:21 -
+			***** Clicked on My account link *****
+2025-04-09 00:07:54 INFO  TC001_AccountRegistrationTest:24 -
+			***** Clicked on Register link *****
+2025-04-09 00:07:54 INFO  TC001_AccountRegistrationTest:27 -
+			***** Entered registration info *****
+2025-04-09 00:07:54 INFO  TC001_AccountRegistrationTest:40 -
+			***** Privacy policy selected *****
+2025-04-09 00:07:54 INFO  TC001_AccountRegistrationTest:42 -
+			***** Clicked on Continue button *****
+2025-04-09 00:07:56 INFO  TC001_AccountRegistrationTest:62 -
+			***** Completed TC001_AccountRegistrationTest *****
+2025-04-09 00:07:58 INFO  TC002_LoginTest:19 -
+			********Starting TC002_LoginTest************
+2025-04-09 00:07:59 INFO  TC002_LoginTest:48 -
+			********Finished TC002_LoginTest************
